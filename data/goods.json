@@ -1,0 +1,1239 @@
+{
+  "category": [
+    {
+      "id": "milk",
+      "name": "Молоко",
+      "state": true
+    },
+    {
+      "id": "greenery",
+      "name": "Зелень",
+      "state": false
+    },
+    {
+      "id": "meat",
+      "name": "Мясо",
+      "state": false
+    },
+    {
+      "id": "corn",
+      "name": "Зерновые",
+      "state": false
+    },
+    {
+      "id": "jam",
+      "name": "Варенье",
+      "state": false
+    }
+  ],
+  "goods": [
+    {
+      "id": "goods-1",
+      "img": "img/filtergoods/item1.png",
+      "title": "Сыр",
+      "price": "415",
+      "volume": "1 кг",
+      "rating": "4.4",
+      "hit": "true",
+      "category": "milk"
+    },
+    {
+      "id": "goods-2",
+      "img": "img/filtergoods/item2.png",
+      "title": "Укроп",
+      "price": "120",
+      "volume": "5 пучков по 100гр",
+      "rating": "2.7",
+      "category": "greenery"
+    },
+    {
+      "id": "goods-3",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата",
+      "price": "450",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-4",
+      "img": "img/filtergoods/item4.png",
+      "title": "Сало",
+      "price": "220",
+      "volume": "1 кг",
+      "rating": "4",
+      "category": "meat"
+    },
+    {
+      "id": "goods-5",
+      "img": "img/filtergoods/item5.png",
+      "title": "Курица",
+      "price": "250",
+      "volume": "1 кг",
+      "rating": "4",
+      "category": "meat"
+    },
+    {
+      "id": "goods-6",
+      "img": "img/filtergoods/item6.png",
+      "title": "Хлеб",
+      "price": "330",
+      "volume": "2 шт",
+      "rating": "3.7",
+      "lean": "true",
+      "category": "corn"
+    },
+    {
+      "id": "goods-7",
+      "img": "img/filtergoods/item7.png",
+      "title": "Варенье",
+      "price": "670",
+      "volume": "500 мл",
+      "rating": "5",
+      "hit": "true",
+      "category": "jam"
+    },
+    {
+      "id": "goods-8",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-2",
+      "price": "480",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-9",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-3",
+      "price": "490",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-10",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-4",
+      "price": "500",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-11",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-5",
+      "price": "510",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-12",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-6",
+      "price": "520",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-13",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-7",
+      "price": "530",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-14",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-8",
+      "price": "540",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-15",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-9",
+      "price": "550",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-7",
+      "img": "img/filtergoods/item7.png",
+      "title": "Варенье",
+      "price": "670",
+      "volume": "500 мл",
+      "rating": "5",
+      "hit": "true",
+      "category": "jam"
+    },
+    {
+      "id": "goods-8",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-2",
+      "price": "480",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-9",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-3",
+      "price": "490",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-10",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-4",
+      "price": "500",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-11",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-5",
+      "price": "510",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-12",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-6",
+      "price": "520",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-13",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-7",
+      "price": "530",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-14",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-8",
+      "price": "540",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-15",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-9",
+      "price": "550",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-7",
+      "img": "img/filtergoods/item7.png",
+      "title": "Варенье",
+      "price": "670",
+      "volume": "500 мл",
+      "rating": "5",
+      "hit": "true",
+      "category": "jam"
+    },
+    {
+      "id": "goods-8",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-2",
+      "price": "480",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-9",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-3",
+      "price": "490",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-10",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-4",
+      "price": "500",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-11",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-5",
+      "price": "510",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-12",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-6",
+      "price": "520",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-13",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-7",
+      "price": "530",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-14",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-8",
+      "price": "540",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-15",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-9",
+      "price": "550",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-7",
+      "img": "img/filtergoods/item7.png",
+      "title": "Варенье",
+      "price": "670",
+      "volume": "500 мл",
+      "rating": "5",
+      "hit": "true",
+      "category": "jam"
+    },
+    {
+      "id": "goods-8",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-2",
+      "price": "480",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-9",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-3",
+      "price": "490",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-10",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-4",
+      "price": "500",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-11",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-5",
+      "price": "510",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-12",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-6",
+      "price": "520",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-13",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-7",
+      "price": "530",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-14",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-8",
+      "price": "540",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-15",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-9",
+      "price": "550",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-7",
+      "img": "img/filtergoods/item7.png",
+      "title": "Варенье",
+      "price": "670",
+      "volume": "500 мл",
+      "rating": "5",
+      "hit": "true",
+      "category": "jam"
+    },
+    {
+      "id": "goods-8",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-2",
+      "price": "480",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-9",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-3",
+      "price": "490",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-10",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-4",
+      "price": "500",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-11",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-5",
+      "price": "510",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-12",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-6",
+      "price": "520",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-13",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-7",
+      "price": "530",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-14",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-8",
+      "price": "540",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-15",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-9",
+      "price": "550",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-7",
+      "img": "img/filtergoods/item7.png",
+      "title": "Варенье",
+      "price": "670",
+      "volume": "500 мл",
+      "rating": "5",
+      "hit": "true",
+      "category": "jam"
+    },
+    {
+      "id": "goods-8",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-2",
+      "price": "480",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-9",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-3",
+      "price": "490",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-10",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-4",
+      "price": "500",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-11",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-5",
+      "price": "510",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-12",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-6",
+      "price": "520",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-13",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-7",
+      "price": "530",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-14",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-8",
+      "price": "540",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-15",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-9",
+      "price": "550",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-7",
+      "img": "img/filtergoods/item7.png",
+      "title": "Варенье",
+      "price": "670",
+      "volume": "500 мл",
+      "rating": "5",
+      "hit": "true",
+      "category": "jam"
+    },
+    {
+      "id": "goods-8",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-2",
+      "price": "480",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-9",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-3",
+      "price": "490",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-10",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-4",
+      "price": "500",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-11",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-5",
+      "price": "510",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-12",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-6",
+      "price": "520",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-13",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-7",
+      "price": "530",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-14",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-8",
+      "price": "540",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-15",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-9",
+      "price": "550",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-7",
+      "img": "img/filtergoods/item7.png",
+      "title": "Варенье",
+      "price": "670",
+      "volume": "500 мл",
+      "rating": "5",
+      "hit": "true",
+      "category": "jam"
+    },
+    {
+      "id": "goods-8",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-2",
+      "price": "480",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-9",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-3",
+      "price": "490",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-10",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-4",
+      "price": "500",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-11",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-5",
+      "price": "510",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-12",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-6",
+      "price": "520",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-13",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-7",
+      "price": "530",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-14",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-8",
+      "price": "540",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-15",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-9",
+      "price": "550",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-7",
+      "img": "img/filtergoods/item7.png",
+      "title": "Варенье",
+      "price": "670",
+      "volume": "500 мл",
+      "rating": "5",
+      "hit": "true",
+      "category": "jam"
+    },
+    {
+      "id": "goods-8",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-2",
+      "price": "480",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-9",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-3",
+      "price": "490",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-10",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-4",
+      "price": "500",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-11",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-5",
+      "price": "510",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-12",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-6",
+      "price": "520",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-13",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-7",
+      "price": "530",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-14",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-8",
+      "price": "540",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-15",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-9",
+      "price": "550",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-7",
+      "img": "img/filtergoods/item7.png",
+      "title": "Варенье",
+      "price": "670",
+      "volume": "500 мл",
+      "rating": "5",
+      "hit": "true",
+      "category": "jam"
+    },
+    {
+      "id": "goods-8",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-2",
+      "price": "480",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-9",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-3",
+      "price": "490",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-10",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-4",
+      "price": "500",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-11",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-5",
+      "price": "510",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-12",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-6",
+      "price": "520",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-13",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-7",
+      "price": "530",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-14",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-8",
+      "price": "540",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-15",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-9",
+      "price": "550",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-7",
+      "img": "img/filtergoods/item7.png",
+      "title": "Варенье",
+      "price": "670",
+      "volume": "500 мл",
+      "rating": "5",
+      "hit": "true",
+      "category": "jam"
+    },
+    {
+      "id": "goods-8",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-2",
+      "price": "480",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-9",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-3",
+      "price": "490",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-10",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-4",
+      "price": "500",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-11",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-5",
+      "price": "510",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-12",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-6",
+      "price": "520",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-13",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-7",
+      "price": "530",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-14",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-8",
+      "price": "540",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-15",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-9",
+      "price": "550",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-7",
+      "img": "img/filtergoods/item7.png",
+      "title": "Варенье",
+      "price": "670",
+      "volume": "500 мл",
+      "rating": "5",
+      "hit": "true",
+      "category": "jam"
+    },
+    {
+      "id": "goods-8",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-2",
+      "price": "480",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-9",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-3",
+      "price": "490",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-10",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-4",
+      "price": "500",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-11",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-5",
+      "price": "510",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-12",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-6",
+      "price": "520",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-13",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-7",
+      "price": "530",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-14",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-8",
+      "price": "540",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-15",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-9",
+      "price": "550",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-7",
+      "img": "img/filtergoods/item7.png",
+      "title": "Варенье",
+      "price": "670",
+      "volume": "500 мл",
+      "rating": "5",
+      "hit": "true",
+      "category": "jam"
+    },
+    {
+      "id": "goods-8",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-2",
+      "price": "480",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-9",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-3",
+      "price": "490",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-10",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-4",
+      "price": "500",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-11",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-5",
+      "price": "510",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-12",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-6",
+      "price": "520",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-13",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-7",
+      "price": "530",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-14",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-8",
+      "price": "540",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    },
+    {
+      "id": "goods-15",
+      "img": "img/filtergoods/item3.png",
+      "title": "Буррата-9",
+      "price": "550",
+      "volume": "1 кг",
+      "rating": "3.7",
+      "category": "milk"
+    }
+  ],
+  "recipe": [
+    {
+      "id": "recipe-1",
+      "img": "img/filtergoods/item1.png",
+      "title": "Сыр-1",
+      "time": "25 мин",
+      "category": "milk"
+    },
+    {
+      "id": "recipe-2",
+      "img": "img/filtergoods/item2.png",
+      "title": "Сыр-1",
+      "time": "30 мин",
+      "category": "milk"
+    },
+    {
+      "id": "recipe-3",
+      "img": "img/filtergoods/item3.png",
+      "title": "Сыр-3",
+      "time": "35 мин",
+      "category": "milk"
+    },
+    {
+      "id": "recipe-4",
+      "img": "img/filtergoods/item4.png",
+      "title": "Сыр-4",
+      "time": "40 мин",
+      "category": "milk"
+    },
+    {
+      "id": "recipe-5",
+      "img": "img/filtergoods/item1.png",
+      "title": "Сыр",
+      "time": "45 мин",
+      "category": "milk"
+    },
+    {
+      "id": "recipe-6",
+      "img": "img/filtergoods/item1.png",
+      "title": "Сыр",
+      "time": "50 мин",
+      "category": "milk"
+    },
+    {
+      "id": "recipe-7",
+      "img": "img/filtergoods/item1.png",
+      "title": "Сыр",
+      "time": "55 мин",
+      "category": "milk"
+    },
+    {
+      "id": "recipe-8",
+      "img": "img/filtergoods/item1.png",
+      "title": "Сыр",
+      "time": "60 мин",
+      "category": "milk"
+    },
+    {
+      "id": "recipe-9",
+      "img": "img/filtergoods/item1.png",
+      "title": "Сыр",
+      "time": "65 мин",
+      "category": "milk"
+    },
+    {
+      "id": "recipe-10",
+      "img": "img/filtergoods/item1.png",
+      "title": "Сыр",
+      "time": "70 мин",
+      "category": "milk"
+    },
+    {
+      "id": "recipe-11",
+      "img": "img/filtergoods/item1.png",
+      "title": "Сыр",
+      "time": "75 мин",
+      "category": "milk"
+    },
+    {
+      "id": "recipe-12",
+      "img": "img/filtergoods/item1.png",
+      "title": "Сыр",
+      "time": "80 мин",
+      "category": "milk"
+    }
+  ]
+}
